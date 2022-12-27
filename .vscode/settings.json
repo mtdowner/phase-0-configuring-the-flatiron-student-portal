@@ -1,0 +1,8 @@
+{
+    "editor.cursorStyle": "block-outline",
+    "editor.wordWrap": "on",
+    "editor.autoClosingBrackets": "always",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.codeLensFontFamily": "attic, atticantique, attic-antique,  \"attic antique\", serif",
+    "editor.defaultFormatter": null
+}
